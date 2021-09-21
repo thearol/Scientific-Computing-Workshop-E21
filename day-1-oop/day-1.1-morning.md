@@ -1,6 +1,6 @@
 # Intro day 1
 
-## Defining variables
+## Defining variables ...
 
 Python variables are assigned using the ```=``` sign:
 
