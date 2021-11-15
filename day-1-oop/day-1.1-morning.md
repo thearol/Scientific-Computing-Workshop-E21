@@ -12,7 +12,7 @@ We can also assign strings to variable names:
 
     # Note the need for consistent single and double quotation marks
     different_variable = "I'm a different variable!"
-    print(different_variable)
+    print(different_variable) 
 
 Be careful with the sign you use to assign variables! There's a difference between ```=``` and ```==```:
 
